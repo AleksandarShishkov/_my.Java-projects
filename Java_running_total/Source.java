@@ -13,7 +13,7 @@
          * simulating the amount of 1 USD penny.
          * 
          * The program prints the earnings for
-         * each day and then show the total in
+         * each day and then shows the total in
          * formatted output.
          * 
          */
